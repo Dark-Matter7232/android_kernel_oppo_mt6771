@@ -1,4 +1,4 @@
-name: compile alps
+name: compile test
 
 on:
   workflow_dispatch
